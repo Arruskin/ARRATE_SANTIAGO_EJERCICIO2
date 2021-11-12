@@ -3,5 +3,11 @@ LALALA
 LOLOLO
 A tope con las lineas
 Allá vamos
+<<<<<<< HEAD
 Puntaren puntan
 Txoria zegoen kantari
+=======
+Gogogo
+Vamos, que nos vamos
+Aldapeko sagarraren puntan
+>>>>>>> Arrate_Santiago_rama
